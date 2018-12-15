@@ -1,6 +1,6 @@
 # Common_Method
 <H3>English</H3>
-Often use python function myself.<br>
+Often use Python code function myself.<br>
 Img.py is pre-processing of the database.<br>
 Background.py is do something commands at background<br>
 
